@@ -75,7 +75,7 @@ if dataset:
         
 
 # Create text
-         text = dict(df['traduccion'])
+         #text = df['traduccion']
          topic1 =  WordCloud().generate(' '.join(text))
          topic2 = 'students,school,exams'
          topic3 = 'pastor,church,money'
