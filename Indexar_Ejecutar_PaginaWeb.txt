@@ -1,0 +1,15 @@
+Procedimiento de indexación y ejecución de página web
+*****************************************************
+
+1. Iniciar una ventana de terminal de python
+
+2. Ingresar a la carpeta donde se encuentra el archivo indexar.py
+
+3. Crear índice para búsqueda Léxica
+       python indexar.py "1"
+
+4. Crear índice para búsqueda Semántica
+       python indexar.py "2"
+
+5. Ejecutar a página web
+       streamlit run main.py
