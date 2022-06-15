@@ -7,7 +7,7 @@
 ### Objetivo:
   Realizar una búsqueda semántica de películas, utilizando técnicas de webscraping, elasticsearch y modelos transformers.
 #
-## Procedimiento
+## Procedimiento (Implementado sobre Windows)
 #### 1.  Ejecutar cuaderno: 1 Web scraping IMDB.ipynb
 #### 2.  Ejecutar cuaderno: 1.1 Limpieza de etiquetas html.ipynb
 #### 3.  Ejecutar cuaderno: 1.2 Traductor_Batch.ipynb
