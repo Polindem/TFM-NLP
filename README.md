@@ -8,4 +8,4 @@
   Realizar una búsqueda semántica de películas, utilizando técnicas de webscraping, elasticsearch y modelos transformers.
 #
 ## Procedimiento
-### 1. 
+### 1. Ejecutar cuaderno 
