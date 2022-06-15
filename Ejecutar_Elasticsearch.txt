@@ -1,3 +1,22 @@
+Procedimiento para setear password en Elasticsearch
+***************************************************
+(es opcional)
+
+Usuario por default es "elastic"
+
+1. Abrir la ventana de terminal de windows:
+      cmd
+
+2. Ingresar a la carpeta donde está instalado Elasticsearch:
+      cd C:\ElasticSearch\elasticsearch-7.16.3-windows-x86_64\elasticsearch-7.16.3\bin\
+
+3. Ejecutar archivo:
+      elasticsearch-setup-passwords interactive
+
+4. Ingresar nuevo password
+
+
+
 Procedimiento de iniciar servicio de ElasticSearch
 **************************************************
 
