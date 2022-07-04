@@ -9,9 +9,9 @@
 #
 ## Procedimiento (Implementado sobre Windows)
 #### 1.  Ejecutar cuaderno: 1 Web scraping IMDB.ipynb
-#### 2.  Ejecutar cuaderno: 1.1 Limpieza de etiquetas html.ipynb
-#### 3.  Ejecutar cuaderno: 1.2 Traductor_Batch.ipynb
-#### 4.  Ejecutar cuaderno: 2 Análisis de data.ipynb
+#### 2.  Ejecutar cuaderno: 2 Análisis de data.ipynb
+#### 3.  Ejecutar cuaderno: 3 Limpieza de etiquetas html.ipynb
+#### 4.  Ejecutar cuaderno: 4 Traductor_Batch.ipynb
 #### 5.  Ejecutar cuaderno: 5 Detección inglés.ipynb
 #### 6.  Ejecutar cuaderno: 6 EDA (búsqueda léxica).ipynb
 #### 7.  Ejecutar cuaderno: 7 EDA (búsqueda semántica).ipynb
